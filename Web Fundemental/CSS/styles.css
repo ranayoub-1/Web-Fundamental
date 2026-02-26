@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+
+.accent {
+    color: #00d4ff; 
+}
+
+h2 {
+    background-color: #6a3dad;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding: 8px;
+    margin: 0;
+}
+
+h3 {
+    background-color: #9fc5f8;
+    text-align: right;
+    text-decoration: underline;
+    padding: 6px 10px;
+    margin: 0;
+}
