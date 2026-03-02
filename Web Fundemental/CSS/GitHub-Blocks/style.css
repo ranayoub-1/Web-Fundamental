@@ -1,0 +1,30 @@
+img.octocat {
+  height: 200px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.blue {
+  background-color: #5ac0e6;
+}
+
+.pink {
+  background-color: #d8a6c1;
+}
+
+.gray {
+  background-color: #eeeeee;
+}
