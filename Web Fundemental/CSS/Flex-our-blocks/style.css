@@ -27,10 +27,11 @@
     height: 400px;
     width: 700px;
     background-color: red;
-    padding: 20px;
+    /* padding: 20px; */
+    padding-left: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .sub-content {
