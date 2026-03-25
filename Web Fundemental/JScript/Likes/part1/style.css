@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 600px;
+    margin: 50px auto;
+}
+
+.post {
+    border: 2px solid black;
+    padding: 20px;
+    background: white;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    background-color: gold;
+    border: 2px solid black;
+    padding: 5px 10px;
+    cursor: pointer;
+}
